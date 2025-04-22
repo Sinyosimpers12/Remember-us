@@ -1,6 +1,6 @@
-# vue-photo-album
+# Trying Vue And Npm Booster With Firebase Api/Realtime Database On Album Project - Sinyo
 
-Trying Vue On Album Project - sinyo
+Api tidak disembunyikan di env jadinya diluar hehe
 
 ## Recommended IDE Setup
 
